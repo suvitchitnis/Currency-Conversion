@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="28" passed="28">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="392906" started-at="2019-04-02T11:10:34Z" finished-at="2019-04-02T11:17:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="392906" started-at="2019-04-02T11:10:34Z" finished-at="2019-04-02T11:17:07Z">
+      <class name="Curr_Con.Currency">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Curr_Con.Currency@59fa1d9b]" name="launchBrowser" is-config="true" duration-ms="21651" started-at="2019-04-02T11:10:34Z" finished-at="2019-04-02T11:10:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle1()[pri:0, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle1" duration-ms="13126" started-at="2019-04-02T11:10:56Z" finished-at="2019-04-02T11:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle1 -->
+        <test-method status="PASS" signature="verifyHomepageTitle2()[pri:1, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle2" duration-ms="13186" started-at="2019-04-02T11:11:09Z" finished-at="2019-04-02T11:11:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle2 -->
+        <test-method status="PASS" signature="verifyHomepageTitle3()[pri:2, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle3" duration-ms="12683" started-at="2019-04-02T11:11:22Z" finished-at="2019-04-02T11:11:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle3 -->
+        <test-method status="PASS" signature="verifyHomepageTitle4()[pri:3, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle4" duration-ms="12947" started-at="2019-04-02T11:11:35Z" finished-at="2019-04-02T11:11:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle4 -->
+        <test-method status="PASS" signature="verifyHomepageTitle5()[pri:4, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle5" duration-ms="12644" started-at="2019-04-02T11:11:48Z" finished-at="2019-04-02T11:12:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle5 -->
+        <test-method status="PASS" signature="verifyHomepageTitle6()[pri:5, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle6" duration-ms="12952" started-at="2019-04-02T11:12:00Z" finished-at="2019-04-02T11:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle6 -->
+        <test-method status="PASS" signature="verifyHomepageTitle7()[pri:6, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle7" duration-ms="12880" started-at="2019-04-02T11:12:13Z" finished-at="2019-04-02T11:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle7 -->
+        <test-method status="PASS" signature="verifyHomepageTitle8()[pri:7, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle8" duration-ms="12930" started-at="2019-04-02T11:12:26Z" finished-at="2019-04-02T11:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle8 -->
+        <test-method status="PASS" signature="verifyHomepageTitle9()[pri:8, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle9" duration-ms="12801" started-at="2019-04-02T11:12:39Z" finished-at="2019-04-02T11:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle9 -->
+        <test-method status="PASS" signature="verifyHomepageTitle10()[pri:9, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle10" duration-ms="12775" started-at="2019-04-02T11:12:52Z" finished-at="2019-04-02T11:13:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle10 -->
+        <test-method status="PASS" signature="verifyHomepageTitle11()[pri:10, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle11" duration-ms="12719" started-at="2019-04-02T11:13:05Z" finished-at="2019-04-02T11:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle11 -->
+        <test-method status="PASS" signature="verifyHomepageTitle12()[pri:11, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle12" duration-ms="13005" started-at="2019-04-02T11:13:18Z" finished-at="2019-04-02T11:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle12 -->
+        <test-method status="PASS" signature="verifyHomepageTitle13()[pri:12, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle13" duration-ms="12733" started-at="2019-04-02T11:13:31Z" finished-at="2019-04-02T11:13:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle13 -->
+        <test-method status="PASS" signature="verifyHomepageTitle14()[pri:13, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle14" duration-ms="12797" started-at="2019-04-02T11:13:43Z" finished-at="2019-04-02T11:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle14 -->
+        <test-method status="PASS" signature="verifyHomepageTitle15()[pri:14, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle15" duration-ms="13142" started-at="2019-04-02T11:13:56Z" finished-at="2019-04-02T11:14:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle15 -->
+        <test-method status="PASS" signature="verifyHomepageTitle16()[pri:15, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle16" duration-ms="12866" started-at="2019-04-02T11:14:09Z" finished-at="2019-04-02T11:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle16 -->
+        <test-method status="PASS" signature="verifyHomepageTitle17()[pri:16, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle17" duration-ms="12991" started-at="2019-04-02T11:14:22Z" finished-at="2019-04-02T11:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle17 -->
+        <test-method status="PASS" signature="verifyHomepageTitle18()[pri:17, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle18" duration-ms="12902" started-at="2019-04-02T11:14:35Z" finished-at="2019-04-02T11:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle18 -->
+        <test-method status="PASS" signature="verifyHomepageTitle19()[pri:18, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle19" duration-ms="13582" started-at="2019-04-02T11:14:48Z" finished-at="2019-04-02T11:15:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle19 -->
+        <test-method status="PASS" signature="verifyHomepageTitle20()[pri:19, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle20" duration-ms="14160" started-at="2019-04-02T11:15:02Z" finished-at="2019-04-02T11:15:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle20 -->
+        <test-method status="PASS" signature="verifyHomepageTitle21()[pri:20, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle21" duration-ms="14145" started-at="2019-04-02T11:15:16Z" finished-at="2019-04-02T11:15:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle21 -->
+        <test-method status="PASS" signature="verifyHomepageTitle22()[pri:21, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle22" duration-ms="14523" started-at="2019-04-02T11:15:30Z" finished-at="2019-04-02T11:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle22 -->
+        <test-method status="PASS" signature="verifyHomepageTitle23()[pri:22, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle23" duration-ms="14198" started-at="2019-04-02T11:15:44Z" finished-at="2019-04-02T11:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle23 -->
+        <test-method status="PASS" signature="verifyHomepageTitle24()[pri:23, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle24" duration-ms="14132" started-at="2019-04-02T11:15:59Z" finished-at="2019-04-02T11:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle24 -->
+        <test-method status="PASS" signature="verifyHomepageTitle25()[pri:24, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle25" duration-ms="14128" started-at="2019-04-02T11:16:13Z" finished-at="2019-04-02T11:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle25 -->
+        <test-method status="PASS" signature="verifyHomepageTitle26()[pri:25, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle26" duration-ms="14195" started-at="2019-04-02T11:16:27Z" finished-at="2019-04-02T11:16:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle26 -->
+        <test-method status="PASS" signature="verifyHomepageTitle27()[pri:26, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle27" duration-ms="14754" started-at="2019-04-02T11:16:41Z" finished-at="2019-04-02T11:16:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle27 -->
+        <test-method status="PASS" signature="verifyHomepageTitle28()[pri:27, instance:Curr_Con.Currency@59fa1d9b]" name="verifyHomepageTitle28" duration-ms="11319" started-at="2019-04-02T11:16:56Z" finished-at="2019-04-02T11:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle28 -->
+      </class> <!-- Curr_Con.Currency -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
